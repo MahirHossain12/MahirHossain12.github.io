@@ -2,8 +2,8 @@
   type: time_line
   contents:
     - title: B.Sc. in Computer Science & Engineering
-      institution: University of Dhaka
-      year: 2020 - 2025
+      institution: University of Dhaka[cite: 1]
+      year: 2020 - 2025[cite: 1]
       description:
         - "Thesis: Privacy-Preserving Federated Learning for Monkeypox Detection with Explainable AI"[cite: 1]
         - "Advisor: Professor Anichur Rahman"[cite: 1]
@@ -13,16 +13,16 @@
   type: time_line
   contents:
     - title: Lead Research Associate
-      institution: ResearchUstad
-      year: 2024 - Present
+      institution: ResearchUstad[cite: 1]
+      year: 2024 - Present[cite: 1]
       description:
         - "Engineered end-to-end Federated Learning (FL) pipelines using PyTorch and TensorFlow."[cite: 1]
         - "Led interdisciplinary research on Generative AI and Explainable AI (XAI) frameworks."[cite: 1]
         - "Spearheaded LLM jailbreak attack evaluations and countermeasure benchmarking."[cite: 1]
 
     - title: Research Assistant
-      institution: NITER, University of Dhaka
-      year: 2023 - 2025
+      institution: NITER, University of Dhaka[cite: 1]
+      year: 2023 - 2025[cite: 1]
       description:
         - "Implemented CNN-Transformers, EmoDARTS, and LSTM-TFT architectures for multimodal research."[cite: 1]
         - "Integrated StyleGAN2-ADA data augmentation with SHAP interpretability under DP-FL."[cite: 1]
@@ -39,22 +39,14 @@
   type: time_line
   contents:
     - title: International Research Grant Recipient
-      institution: Multimedia University (Malaysia) & King Saud University (Saudi Arabia)
-      year: 2025
+      institution: Multimedia University & King Saud University[cite: 1]
+      year: 2025[cite: 1]
       description: "Collaborative grant recipient under Postdoc MMUI//240029 & ORF-2025-34."[cite: 1]
 
     - title: Best Research Paper (Runner-up) - Lead Author
-      institution: ICEEICT
-      year: 2024
+      institution: ICEEICT[cite: 1]
+      year: 2024[cite: 1]
       description: "Recognized for exceptional technical methodology and research execution."[cite: 1]
-
-- title: Teaching & Mentorship
-  type: time_line
-  contents:
-    - title: Teaching Assistant (Teacher's Aid)
-      institution: University of Dhaka
-      year: 2024 - 2025
-      description: "Facilitated Algorithms I, Algorithms II, and Data Science across 2 semesters."[cite: 1]
 
 - title: Technical Skills
   type: nested
