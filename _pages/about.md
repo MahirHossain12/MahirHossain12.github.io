@@ -28,4 +28,4 @@ Currently working as **Lead Research Associate** at ResearchUstad. My research f
 
 I hold a B.Sc. in Computer Science and Engineering from University of Dhaka, with over 10 peer-reviewed journal publications (including 8+ Q1 venues) and an IELTS score of 8.0. **I am actively seeking Ph.D. positions in Computer Science for Fall or Spring 2027.**
 
-[Download CV (PDF)](assets/pdf/CV.pdf){: .btn .btn-sm .z-depth-0 .cv-btn }
+[Download CV (PDF)](assets/pdf/CV_Shahariar_Hossain_Mahir-2.pdf){: .btn .btn-sm .z-depth-0 .cv-btn }
