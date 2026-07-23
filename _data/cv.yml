@@ -2,61 +2,83 @@
   type: time_line
   contents:
     - title: B.Sc. in Computer Science & Engineering
-      institution: University of Dhaka[cite: 1]
-      year: 2020 - 2025[cite: 1]
+      institution: National Institute of Textile Engineering and Research (NITER), University of Dhaka
+      year: 2020 - 2025
       description:
-        - "Thesis: Privacy-Preserving Federated Learning for Monkeypox Detection with Explainable AI"[cite: 1]
-        - "Advisor: Professor Anichur Rahman"[cite: 1]
-        - "IELTS Academic Overall Band 8.0"[cite: 1]
+        - "Thesis: Privacy-Preserving Federated Learning for Monkeypox Detection with Explainable AI"
+        - "Advisor: Professor Anichur Rahman"
+        - "IELTS Academic Overall Band 8.0"
 
 - title: Research Experience
   type: time_line
   contents:
     - title: Lead Research Associate
-      institution: ResearchUstad[cite: 1]
-      year: 2024 - Present[cite: 1]
+      institution: ResearchUstad
+      year: 2024 - Present
       description:
-        - "Engineered end-to-end Federated Learning (FL) pipelines using PyTorch and TensorFlow."[cite: 1]
-        - "Led interdisciplinary research on Generative AI and Explainable AI (XAI) frameworks."[cite: 1]
-        - "Spearheaded LLM jailbreak attack evaluations and countermeasure benchmarking."[cite: 1]
+        - "Engineered end-to-end Federated Learning (FL) pipelines using PyTorch and TensorFlow."
+        - "Led interdisciplinary research on Generative AI and Explainable AI (XAI) frameworks."
+        - "Spearheaded LLM jailbreak attack evaluations and countermeasure benchmarking."
 
     - title: Research Assistant
-      institution: NITER, University of Dhaka[cite: 1]
-      year: 2023 - 2025[cite: 1]
+      institution: NITER, University of Dhaka
+      year: 2023 - 2025
       description:
-        - "Implemented CNN-Transformers, EmoDARTS, and LSTM-TFT architectures for multimodal research."[cite: 1]
-        - "Integrated StyleGAN2-ADA data augmentation with SHAP interpretability under DP-FL."[cite: 1]
+        - "Implemented CNN-Transformers, EmoDARTS, and LSTM-TFT architectures for multimodal research."
+        - "Integrated StyleGAN2-ADA data augmentation with SHAP interpretability under DP-FL."
+
+- title: Teaching & Mentorship
+  type: time_line
+  contents:
+    - title: Teaching Assistant (Teacher's Aid)
+      institution: University of Dhaka
+      year: 2024 - 2025
+      description:
+        - "Facilitated undergraduate courses: Algorithms I, Algorithms II, and Data Science across 2 semesters (12 Credit Hours)."
+        - "Conducted tutorial sessions and lab evaluations for 50+ students, debugging algorithmic implementations."
+
+    - title: ICT Instructor
+      institution: Government-Funded Youth Empowerment Programme
+      year: 2024
+      description:
+        - "Delivered 120+ instructional hours on foundational programming in C++ and Java paradigms."
+
+    - title: Technical Workshop Lead
+      institution: NITER Computer Society
+      year: 2023 - 2025
+      description:
+        - "Instructed bootcamps on Machine Learning, Neural Networks, and Data Science workflows."
 
 - title: Selected Publications
   type: list
   contents:
-    - "<b>S. H. Mahir</b>, et al. 'Differentiable Latent Fusion via Divergence-Aware Scaling in Federated Foundation Models.' <i>Manuscript in Submission</i>, 2026."[cite: 1]
-    - "<b>S. H. Mahir</b>, et al. 'Monkeypox and Skin Lesion Detection with FL, GANs & XAI.' <i>Biomedical Signal Processing and Control (Elsevier, Q1)</i>, 2025."[cite: 1]
-    - "<b>S. H. Mahir</b>, et al. 'Federated Flood Prediction with Multi-Region Custom Dataset, XAI and Hyper Models.' <i>IEEE OJCS</i>, 2025."[cite: 1]
-    - "A. Rahman, <b>S. H. Mahir</b>, et al. 'Unmasking Vulnerabilities in LLMs: A Deep Dive into Jailbreak Attacks and Countermeasures.' <i>IEEE TNNLS (Under Review)</i>, 2026."[cite: 1]
+    - "<b>S. H. Mahir</b>, et al. 'Differentiable Latent Fusion via Divergence-Aware Scaling in Federated Foundation Models.' <i>Manuscript in Submission</i>, 2026."
+    - "<b>S. H. Mahir</b>, et al. 'Monkeypox and Skin Lesion Detection with FL, GANs & XAI.' <i>Biomedical Signal Processing and Control (Elsevier, Q1)</i>, 2025."
+    - "<b>S. H. Mahir</b>, et al. 'Federated Flood Prediction with Multi-Region Custom Dataset, XAI and Hyper Models.' <i>IEEE OJCS</i>, 2025."
+    - "A. Rahman, <b>S. H. Mahir</b>, et al. 'Unmasking Vulnerabilities in LLMs: A Deep Dive into Jailbreak Attacks and Countermeasures.' <i>IEEE TNNLS (Under Review)</i>, 2026."
 
 - title: Honors & Awards
   type: time_line
   contents:
     - title: International Research Grant Recipient
-      institution: Multimedia University & King Saud University[cite: 1]
-      year: 2025[cite: 1]
-      description: "Collaborative grant recipient under Postdoc MMUI//240029 & ORF-2025-34."[cite: 1]
+      institution: Multimedia University & King Saud University
+      year: 2025
+      description: "Collaborative grant recipient under Postdoc MMUI//240029 & ORF-2025-34."
 
     - title: Best Research Paper (Runner-up) - Lead Author
-      institution: ICEEICT[cite: 1]
-      year: 2024[cite: 1]
-      description: "Recognized for exceptional technical methodology and research execution."[cite: 1]
+      institution: ICEEICT
+      year: 2024
+      description: "Recognized for exceptional technical methodology and research execution."
 
 - title: Technical Skills
   type: nested
   contents:
     - title: Languages
       items:
-        - Python, C/C++, Bash[cite: 1]
+        - Python, C/C++, Bash
     - title: Frameworks
       items:
-        - PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn[cite: 1]
+        - PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
     - title: Tools & Methodologies
       items:
-        - Federated Learning (FL), Explainable AI (XAI), GANs, ViTs, Git, Linux, SQL[cite: 1]
+        - Federated Learning (FL), Explainable AI (XAI), GANs, ViTs, Git, Linux, SQL
