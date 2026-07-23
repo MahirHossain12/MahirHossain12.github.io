@@ -23,17 +23,19 @@ last_updated: false # set to true if you want to display last updated in the foo
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
+
 # -----------------------------------------------------------------------------
 # Social links (Rendered at the bottom of the page)
 # -----------------------------------------------------------------------------
 
 email: Mahihossain114@gmail.com
 github_username: MahirHossain12
-linkedin_username: https://www.linkedin.com/in/shahariar-hossain-159868313 # Add your LinkedIn vanity URL (e.g., shahriar-hossain-mahir)
-google_scholar_id: https://scholar.google.com/citations?user=bUCyA18AAAAJ&hl=en # Add your Google Scholar ID string (the text after 'user=' in your profile URL)
-orcid_id: https://orcid.org/0009-0006-5553-4124 # Add your 16-digit ORCID ID if you have one
-research_gate_profile: https://www.researchgate.net/profile/Shahariar-Mahir # Add your ResearchGate handle
-x_username: # Add your X/Twitter handle
+linkedin_username: shahariar-hossain-159868313
+google_scholar_id: bUCyA18AAAAJ
+orcid_id: 0009-0006-5553-4124
+research_gate_profile: Shahariar-Mahir
+x_username: 
+inspirehep_id: # Leave empty to remove icon
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
@@ -351,8 +353,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Mahir]
+  first_name: [Shahriar, Shahriar Hossain]
 
   style: apa
   locale: en
