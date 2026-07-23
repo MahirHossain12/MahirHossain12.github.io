@@ -1,189 +1,184 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Shahriar Hossain Mahir
+  label: Computer Science Researcher
+  email: mahihossain114@gmail.com
+  location: Dhaka, Bangladesh
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Computer Science researcher specializing in Trustworthy & Explainable AI (XAI), Federated Learning (FL), LLM Security, and Distributed Systems with healthcare and IoT applications.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: MahirHossain12
     - network: LinkedIn
-      username: example
+      username: Shahariar-Hossain
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    city: Dhaka
+    countryCode: BD
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: National Institute of Textile Engineering and Research (NITER), University of Dhaka
+        location: Dhaka, Bangladesh
+        area: Computer Science & Engineering
+        studyType: B.Sc.
+        start_date: 2020-02-01
+        end_date: 2025-04-30
+        summary: Degree conferred Aug 2025 (impacted by academic schedule adjustments).
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis: Privacy-Preserving Federated Learning for Monkeypox Detection with Explainable AI"
+          - "Advisor: Professor Anichur Rahman"
+          - "Standardized Tests: IELTS Academic Overall Band 8.0 (No sub-score below 7.0)"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+    Research Experience:
+      - company: ResearchUstad
+        position: Lead Research Associate
+        location: Dhaka, Bangladesh
+        start_date: 2024-09-01
+        end_date: Present
+        summary: Leading multi-disciplinary projects in Federated Learning, LLM security, and privacy-preserving AI.
         highlights:
-          - Description 1.
-          - Description 2.
+          - Engineered reproducible, end-to-end Federated Learning (FL) pipelines using PyTorch and TensorFlow for decentralized edge models.
+          - Led research teams in developing Generative AI frameworks and Explainable AI (XAI) metrics for healthcare analytics.
+          - Spearheaded adversarial vulnerability assessments on Large Language Models (LLMs), evaluating jailbreak attack vectors and countermeasures.
+          - Formulated differentially private FL mechanisms and latent space fusion algorithms to scale foundation models across distributed networks.
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: National Institute of Textile Engineering and Research (NITER), University of Dhaka
+        position: Research Assistant
+        location: Dhaka, Bangladesh
+        start_date: 2023-03-01
+        end_date: 2025-05-31
+        summary: Applied deep learning and privacy-preserving architectures to multimodal domains.
         highlights:
-          - Relativity
-          - Description 2.
+          - Designed and implemented hybrid models (CNN-Transformers, EmoDARTS, LSTM-TFT) for speech emotion recognition, flood forecasting, and medical image classification.
+          - Integrated StyleGAN2-ADA data augmentation with SHAP interpretability under differential privacy constraints.
+          - Preprocessed multi-region datasets leading to top-tier Q1 journal publications (Elsevier, IEEE, Springer).
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
+    Selected Publications:
+      - title: "Differentiable Latent Fusion via Divergence-Aware Scaling in Federated Foundation Models"
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - S. H. Mahir
+          - et al.
+        publisher: Manuscript in Submission
+        releaseDate: 2026
+        summary: Advanced distributed foundation model optimization through latent divergence-aware scaling.
 
-      - title: Max Planck Medal
+      - title: "Monkeypox and Skin Lesion Detection with FL, GANs & XAI"
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - S. H. Mahir
+          - et al.
+        publisher: Biomedical Signal Processing and Control (Elsevier, Q1 Journal)
+        releaseDate: 2025
+        summary: Integrated privacy-preserving federated pipelines with Generative Adversarial Networks and explainable diagnostic outputs.
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Federated Flood Prediction with Multi-Region Custom Dataset, XAI and Hyper Models"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - S. H. Mahir
+          - et al.
+        publisher: IEEE Open Journal of the Computer Society
+        releaseDate: 2025
+        summary: Collaborative multi-region flood dynamics modeling with model interpretability.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "Unmasking Vulnerabilities in LLMs: A Deep Dive into Jailbreak Attacks and Countermeasures"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - A. Rahman
+          - S. H. Mahir
+          - et al.
+        publisher: IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+        releaseDate: 2026
+        summary: Comprehensive benchmarking of LLM jailbreaking vulnerabilities and defensive guardrails. (Under Review).
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+    Additional Publications & Preprints:
+      - title: "Transforming Generative AI into Agentic AI: Next Step in the Evolution of Artificial Intelligence"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - S. H. Mahir
+          - et al.
+        publisher: Under Submission, IEEE Transactions on Artificial Intelligence
+        releaseDate: 2026
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: "GAN-Augmentation for Skin-Lesion Classification Using DP-FL in Healthcare 5.0"
+        authors:
+          - D. Kundu
+          - S. H. Mahir
+          - et al.
+        publisher: ACM Transactions on Intelligent Systems and Technology (TIST)
+        releaseDate: 2026
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - title: "Bangla Speech Emotion Recognition with FL & Hybrid Models"
+        authors:
+          - J. Abrar
+          - S. H. Mahir
+          - et al.
+        publisher: International Journal of Speech Technology
+        releaseDate: 2025
 
-      - name: English
-        summary: "Fluent"
+      - title: "Collaborative Advancement of Cloud-Edge-Fog Computing in Smart Healthcare: Concepts, Applications, and Future Opportunities"
+        authors:
+          - A. Rahman
+          - S. H. Mahir
+          - et al.
+        publisher: Cluster Computing
+        releaseDate: 2026
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+    Teaching & Mentorship:
+      - company: University of Dhaka
+        position: Teaching Assistant (Teacher's Aid)
+        location: Dhaka, Bangladesh
+        start_date: 2024
+        end_date: 2025
+        summary: "Facilitated courses: Algorithms I, Algorithms II, and Data Science across 2 semesters (12 Credit Hours)."
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Conducted weekly tutorial sessions and lab evaluations for 50+ undergraduate students.
+          - Assisted students in debugging algorithmic implementations and understanding complex data structures.
+
+      - company: Government-Funded Youth Empowerment Programme
+        position: ICT Instructor
+        location: Dhaka, Bangladesh
+        start_date: 2024
+        end_date: 2024
+        summary: Delivered 120+ instructional hours on foundational programming in C++ and Java paradigms.
+
+      - company: NITER Computer Society
+        position: Technical Workshop Lead
+        location: Dhaka, Bangladesh
+        start_date: 2023
+        end_date: 2025
+        summary: Instructed bootcamps on Machine Learning, Neural Networks, and Data Science workflows.
+
+    Honors & Awards:
+      - title: International Research Grant Recipient (Group)
+        awarder: Multimedia University (Malaysia) & King Saud University (Saudi Arabia)
+        date: 2025
+        summary: "Collaborative research funding (Grant IDs: Postdoc MMUI//240029 & ORF-2025-34)."
+
+      - title: Best Research Paper (Runner-up) - Lead Author
+        awarder: International Conference on Electrical, Computer and Communication Engineering (ICEEICT)
+        date: 2024
+        summary: Recognized for exceptional methodology and technical paper execution.
+
+      - title: Research Grant Awardee
+        awarder: ResearchUstad ML Innovation Fund
+        date: 2023
+        summary: Competitive grant award for machine learning pipeline innovation.
+
+    Technical Skills:
+      - name: Languages & Core
+        keywords: Python, C/C++, Bash
+
+      - name: Frameworks & Libraries
+        keywords: PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+
+      - name: Methodologies & Architectures
+        keywords: Federated Learning (FL), Explainable AI (XAI), GANs, Vision Transformers (ViTs), CNNs, LSTMs, Transfer Learning, Reinforcement Learning
+
+      - name: Tools & Databases
+        keywords: Git, Linux, SQL, Power BI, Google Colab, Kaggle, Conda
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Professor Anichur Rahman
+        icon: fa-solid fa-user-graduate
+        reference: "Department of Computer Science and Engineering, NITER, University of Dhaka. Email: anis_cse@niter.edu.bd | Role: Undergraduate Thesis Advisor & Research Supervisor."
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Professor Dipanjali Kundu
+        icon: fa-solid fa-chalkboard-user
+        reference: "Department of Computer Science and Engineering, NITER, University of Dhaka. Email: dkundu@niter.edu.bd | Role: Teaching Assistant Supervisor."
