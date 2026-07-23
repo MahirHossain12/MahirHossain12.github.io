@@ -22,7 +22,7 @@ latest_posts:
   enabled: false # set to false for now until you write blog posts
 ---
 
-I am a Computer Science researcher specializing in **Trustworthy & Explainable AI**, **Federated Learning (FL)**, and **LLM Security / Jailbreak Defense**. 
+I am a Computer Science and Engineering researcher specializing in **Trustworthy & Explainable AI**, **Federated Learning (FL)**, and **LLM Security / Jailbreak Defense**. 
 
 Currently working as **Lead Research Associate** at ResearchUstad. My research focuses on designing privacy-preserving, robust, and interpretable architectures for distributed, heterogeneous environments—with primary applications in clinical diagnostics, neuroimaging, and distributed IoT systems.
 
