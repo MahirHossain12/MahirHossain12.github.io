@@ -1,184 +1,70 @@
-cv:
-  name: Shahriar Hossain Mahir
-  label: Computer Science Researcher
-  email: mahihossain114@gmail.com
-  location: Dhaka, Bangladesh
-  image: ""
-  summary: Computer Science researcher specializing in Trustworthy & Explainable AI (XAI), Federated Learning (FL), LLM Security, and Distributed Systems with healthcare and IoT applications.
+- title: Education
+  type: time_line
+  contents:
+    - title: B.Sc. in Computer Science & Engineering
+      institution: University of Dhaka
+      year: 2020 - 2025
+      description:
+        - "Thesis: Privacy-Preserving Federated Learning for Monkeypox Detection with Explainable AI"[cite: 1]
+        - "Advisor: Professor Anichur Rahman"[cite: 1]
+        - "IELTS Academic Overall Band 8.0"[cite: 1]
 
-  social_networks:
-    - network: GitHub
-      username: MahirHossain12
-    - network: LinkedIn
-      username: Shahariar-Hossain
+- title: Research Experience
+  type: time_line
+  contents:
+    - title: Lead Research Associate
+      institution: ResearchUstad
+      year: 2024 - Present
+      description:
+        - "Engineered end-to-end Federated Learning (FL) pipelines using PyTorch and TensorFlow."[cite: 1]
+        - "Led interdisciplinary research on Generative AI and Explainable AI (XAI) frameworks."[cite: 1]
+        - "Spearheaded LLM jailbreak attack evaluations and countermeasure benchmarking."[cite: 1]
 
-  address:
-    city: Dhaka
-    countryCode: BD
+    - title: Research Assistant
+      institution: NITER, University of Dhaka
+      year: 2023 - 2025
+      description:
+        - "Implemented CNN-Transformers, EmoDARTS, and LSTM-TFT architectures for multimodal research."[cite: 1]
+        - "Integrated StyleGAN2-ADA data augmentation with SHAP interpretability under DP-FL."[cite: 1]
 
-  sections:
-    Education:
-      - institution: National Institute of Textile Engineering and Research (NITER), University of Dhaka
-        location: Dhaka, Bangladesh
-        area: Computer Science & Engineering
-        studyType: B.Sc.
-        start_date: 2020-02-01
-        end_date: 2025-04-30
-        summary: Degree conferred Aug 2025 (impacted by academic schedule adjustments).
-        highlights:
-          - "Thesis: Privacy-Preserving Federated Learning for Monkeypox Detection with Explainable AI"
-          - "Advisor: Professor Anichur Rahman"
-          - "Standardized Tests: IELTS Academic Overall Band 8.0 (No sub-score below 7.0)"
+- title: Selected Publications
+  type: list
+  contents:
+    - "<b>S. H. Mahir</b>, et al. 'Differentiable Latent Fusion via Divergence-Aware Scaling in Federated Foundation Models.' <i>Manuscript in Submission</i>, 2026."[cite: 1]
+    - "<b>S. H. Mahir</b>, et al. 'Monkeypox and Skin Lesion Detection with FL, GANs & XAI.' <i>Biomedical Signal Processing and Control (Elsevier, Q1)</i>, 2025."[cite: 1]
+    - "<b>S. H. Mahir</b>, et al. 'Federated Flood Prediction with Multi-Region Custom Dataset, XAI and Hyper Models.' <i>IEEE OJCS</i>, 2025."[cite: 1]
+    - "A. Rahman, <b>S. H. Mahir</b>, et al. 'Unmasking Vulnerabilities in LLMs: A Deep Dive into Jailbreak Attacks and Countermeasures.' <i>IEEE TNNLS (Under Review)</i>, 2026."[cite: 1]
 
-    Research Experience:
-      - company: ResearchUstad
-        position: Lead Research Associate
-        location: Dhaka, Bangladesh
-        start_date: 2024-09-01
-        end_date: Present
-        summary: Leading multi-disciplinary projects in Federated Learning, LLM security, and privacy-preserving AI.
-        highlights:
-          - Engineered reproducible, end-to-end Federated Learning (FL) pipelines using PyTorch and TensorFlow for decentralized edge models.
-          - Led research teams in developing Generative AI frameworks and Explainable AI (XAI) metrics for healthcare analytics.
-          - Spearheaded adversarial vulnerability assessments on Large Language Models (LLMs), evaluating jailbreak attack vectors and countermeasures.
-          - Formulated differentially private FL mechanisms and latent space fusion algorithms to scale foundation models across distributed networks.
+- title: Honors & Awards
+  type: time_line
+  contents:
+    - title: International Research Grant Recipient
+      institution: Multimedia University (Malaysia) & King Saud University (Saudi Arabia)
+      year: 2025
+      description: "Collaborative grant recipient under Postdoc MMUI//240029 & ORF-2025-34."[cite: 1]
 
-      - company: National Institute of Textile Engineering and Research (NITER), University of Dhaka
-        position: Research Assistant
-        location: Dhaka, Bangladesh
-        start_date: 2023-03-01
-        end_date: 2025-05-31
-        summary: Applied deep learning and privacy-preserving architectures to multimodal domains.
-        highlights:
-          - Designed and implemented hybrid models (CNN-Transformers, EmoDARTS, LSTM-TFT) for speech emotion recognition, flood forecasting, and medical image classification.
-          - Integrated StyleGAN2-ADA data augmentation with SHAP interpretability under differential privacy constraints.
-          - Preprocessed multi-region datasets leading to top-tier Q1 journal publications (Elsevier, IEEE, Springer).
+    - title: Best Research Paper (Runner-up) - Lead Author
+      institution: ICEEICT
+      year: 2024
+      description: "Recognized for exceptional technical methodology and research execution."[cite: 1]
 
-    Selected Publications:
-      - title: "Differentiable Latent Fusion via Divergence-Aware Scaling in Federated Foundation Models"
-        authors:
-          - S. H. Mahir
-          - et al.
-        publisher: Manuscript in Submission
-        releaseDate: 2026
-        summary: Advanced distributed foundation model optimization through latent divergence-aware scaling.
+- title: Teaching & Mentorship
+  type: time_line
+  contents:
+    - title: Teaching Assistant (Teacher's Aid)
+      institution: University of Dhaka
+      year: 2024 - 2025
+      description: "Facilitated Algorithms I, Algorithms II, and Data Science across 2 semesters."[cite: 1]
 
-      - title: "Monkeypox and Skin Lesion Detection with FL, GANs & XAI"
-        authors:
-          - S. H. Mahir
-          - et al.
-        publisher: Biomedical Signal Processing and Control (Elsevier, Q1 Journal)
-        releaseDate: 2025
-        summary: Integrated privacy-preserving federated pipelines with Generative Adversarial Networks and explainable diagnostic outputs.
-
-      - title: "Federated Flood Prediction with Multi-Region Custom Dataset, XAI and Hyper Models"
-        authors:
-          - S. H. Mahir
-          - et al.
-        publisher: IEEE Open Journal of the Computer Society
-        releaseDate: 2025
-        summary: Collaborative multi-region flood dynamics modeling with model interpretability.
-
-      - title: "Unmasking Vulnerabilities in LLMs: A Deep Dive into Jailbreak Attacks and Countermeasures"
-        authors:
-          - A. Rahman
-          - S. H. Mahir
-          - et al.
-        publisher: IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-        releaseDate: 2026
-        summary: Comprehensive benchmarking of LLM jailbreaking vulnerabilities and defensive guardrails. (Under Review).
-
-    Additional Publications & Preprints:
-      - title: "Transforming Generative AI into Agentic AI: Next Step in the Evolution of Artificial Intelligence"
-        authors:
-          - S. H. Mahir
-          - et al.
-        publisher: Under Submission, IEEE Transactions on Artificial Intelligence
-        releaseDate: 2026
-
-      - title: "GAN-Augmentation for Skin-Lesion Classification Using DP-FL in Healthcare 5.0"
-        authors:
-          - D. Kundu
-          - S. H. Mahir
-          - et al.
-        publisher: ACM Transactions on Intelligent Systems and Technology (TIST)
-        releaseDate: 2026
-
-      - title: "Bangla Speech Emotion Recognition with FL & Hybrid Models"
-        authors:
-          - J. Abrar
-          - S. H. Mahir
-          - et al.
-        publisher: International Journal of Speech Technology
-        releaseDate: 2025
-
-      - title: "Collaborative Advancement of Cloud-Edge-Fog Computing in Smart Healthcare: Concepts, Applications, and Future Opportunities"
-        authors:
-          - A. Rahman
-          - S. H. Mahir
-          - et al.
-        publisher: Cluster Computing
-        releaseDate: 2026
-
-    Teaching & Mentorship:
-      - company: University of Dhaka
-        position: Teaching Assistant (Teacher's Aid)
-        location: Dhaka, Bangladesh
-        start_date: 2024
-        end_date: 2025
-        summary: "Facilitated courses: Algorithms I, Algorithms II, and Data Science across 2 semesters (12 Credit Hours)."
-        highlights:
-          - Conducted weekly tutorial sessions and lab evaluations for 50+ undergraduate students.
-          - Assisted students in debugging algorithmic implementations and understanding complex data structures.
-
-      - company: Government-Funded Youth Empowerment Programme
-        position: ICT Instructor
-        location: Dhaka, Bangladesh
-        start_date: 2024
-        end_date: 2024
-        summary: Delivered 120+ instructional hours on foundational programming in C++ and Java paradigms.
-
-      - company: NITER Computer Society
-        position: Technical Workshop Lead
-        location: Dhaka, Bangladesh
-        start_date: 2023
-        end_date: 2025
-        summary: Instructed bootcamps on Machine Learning, Neural Networks, and Data Science workflows.
-
-    Honors & Awards:
-      - title: International Research Grant Recipient (Group)
-        awarder: Multimedia University (Malaysia) & King Saud University (Saudi Arabia)
-        date: 2025
-        summary: "Collaborative research funding (Grant IDs: Postdoc MMUI//240029 & ORF-2025-34)."
-
-      - title: Best Research Paper (Runner-up) - Lead Author
-        awarder: International Conference on Electrical, Computer and Communication Engineering (ICEEICT)
-        date: 2024
-        summary: Recognized for exceptional methodology and technical paper execution.
-
-      - title: Research Grant Awardee
-        awarder: ResearchUstad ML Innovation Fund
-        date: 2023
-        summary: Competitive grant award for machine learning pipeline innovation.
-
-    Technical Skills:
-      - name: Languages & Core
-        keywords: Python, C/C++, Bash
-
-      - name: Frameworks & Libraries
-        keywords: PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
-
-      - name: Methodologies & Architectures
-        keywords: Federated Learning (FL), Explainable AI (XAI), GANs, Vision Transformers (ViTs), CNNs, LSTMs, Transfer Learning, Reinforcement Learning
-
-      - name: Tools & Databases
-        keywords: Git, Linux, SQL, Power BI, Google Colab, Kaggle, Conda
-
-    References:
-      - name: Professor Anichur Rahman
-        icon: fa-solid fa-user-graduate
-        reference: "Department of Computer Science and Engineering, NITER, University of Dhaka. Email: anis_cse@niter.edu.bd | Role: Undergraduate Thesis Advisor & Research Supervisor."
-
-      - name: Professor Dipanjali Kundu
-        icon: fa-solid fa-chalkboard-user
-        reference: "Department of Computer Science and Engineering, NITER, University of Dhaka. Email: dkundu@niter.edu.bd | Role: Teaching Assistant Supervisor."
+- title: Technical Skills
+  type: nested
+  contents:
+    - title: Languages
+      items:
+        - Python, C/C++, Bash[cite: 1]
+    - title: Frameworks
+      items:
+        - PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn[cite: 1]
+    - title: Tools & Methodologies
+      items:
+        - Federated Learning (FL), Explainable AI (XAI), GANs, ViTs, Git, Linux, SQL[cite: 1]
